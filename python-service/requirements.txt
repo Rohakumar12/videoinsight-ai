@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+supadata
+pinecone
+langchain-core
+langchain-nvidia-ai-endpoints
+langchain-pinecone
+langchain-text-splitters
+youtube-transcript-api
+tiktoken
